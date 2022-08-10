@@ -1,15 +1,15 @@
 <!-- markdownlint-disable MD033 -->
-# Modpack
+# Encrypted_
 
-[![Name](https://img.shields.io/badge/CurseForge-Name-F16436)](https://www.curseforge.com/minecraft/modpacks/projectName)
+[![Encrypted_](https://img.shields.io/badge/CurseForge-Encrypted_-F16436)](https://www.curseforge.com/minecraft/modpacks/encrypted_)
 [![Website](https://shields.io/website?up_message=anyijun.com&url=http://anyijun.com&label=Website)](http://anyijun.com)
-[![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-blue)](https://github.com/ShaBaiTianCN/Modpack/blob/master/LICENSE)
-[![Downloads](https://shields.io/github/downloads/ShaBaiTianCN/Modpack/total?label=Downloads)](https://github.com/ShaBaiTianCN/Modpack/releases)
-[![Release](https://shields.io/github/v/release/ShaBaiTianCN/Modpack?display_name=tag&include_prereleases&label=Release)](https://github.com/ShaBaiTianCN/Modpack/releases/latest)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-blue)](https://github.com/ShaBaiTianCN/Encrypted_/blob/master/LICENSE)
+[![Downloads](https://shields.io/github/downloads/ShaBaiTianCN/Encrypted_/total?label=Downloads)](https://github.com/ShaBaiTianCN/Encrypted_/releases)
+[![Release](https://shields.io/github/v/release/ShaBaiTianCN/Encrypted_?display_name=tag&include_prereleases&label=Release)](https://github.com/ShaBaiTianCN/Encrypted_/releases/latest)
 
 ## 仓库说明
 
-这里是 Modpack 整合包简体中文汉化仓库。
+这里是 Encrypted_ 整合包简体中文汉化仓库。
 
 ![汉化补丁食用说明](汉化补丁食用说明.jpg)
 
