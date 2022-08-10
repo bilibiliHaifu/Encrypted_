@@ -50,7 +50,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   action = setbuttonlabel
-  value = < Co-code >
+  value = < 合作编码 >
 }
 
 customization {
@@ -98,7 +98,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   action = setbuttonlabel
-  value = Settings
+  value = 选项…
 }
 
 customization {
@@ -146,7 +146,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   action = setbuttonlabel
-  value = < Solocode >
+  value = < 单人编码 >
 }
 
 customization {
@@ -176,7 +176,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   action = setbuttonlabel
-  value = Modifications
+  value = 模组
 }
 
 customization {
@@ -273,7 +273,7 @@ customization {
   backgroundhovered = config\fancymenu\animations\btn_h.png
   label = 
   loopbackgroundanimations = true
-  hoverlabel = Shutdown
+  hoverlabel = 关机
   x = -23
   width = 46
   actionid = 195086a2-e089-49a5-831f-3e88b087f3421656935996071
@@ -293,6 +293,6 @@ customization {
   y = -13
   scale = 1.0
   alignment = left
-  value = %totalmods% Custom Code Loaded
+  value = %totalmods% 个代码已加载
 }
 
