@@ -11,7 +11,7 @@ onEvent('item.registry', event => {
 	event.create('encrypted_matter').displayName('加密物质')
 	event.create('finished_program').displayName('§3<§1已完成的项目§3/>_§r').glow(true).unstackable()
 	event.create('creative_essence').displayName('创造精华').glow(true)
-	event.create('raw_andesite_alloy').displayName('§6无机 §r安山混合物')
+	event.create('raw_andesite_alloy').displayName('§6无机§r安山混合物')
 	event.create('wooden_gear').displayName('木齿轮')
 	event.create('wooden_plate').displayName('木制板材')
 	event.create('incomplete_machine_frame', 'create:sequenced_assembly').displayName('未完成的机器框架').unstackable()
