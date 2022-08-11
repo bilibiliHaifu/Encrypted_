@@ -3,9 +3,9 @@
 	group: "10DB5C1CE56FDEE6"
 	order_index: 1
 	filename: "metal_storage"
-	title: "Improved Storage"
+	title: "改进存储"
 	icon: "ironchest:crystal_chest"
-	subtitle: ["16GB Storage"]
+	subtitle: ["16GB存储空间"]
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
