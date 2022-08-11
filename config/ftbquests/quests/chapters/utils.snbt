@@ -3,21 +3,21 @@
 	group: "5508F37D906E5430"
 	order_index: 1
 	filename: "utils"
-	title: "Helpful Items"
+	title: "有用的物品"
 	default_quest_shape: ""
 	default_hide_dependency_lines: false
 	quests: [
 		{
-			title: "Angel Ring"
+			title: "天使指环"
 			x: 2.5d
 			y: 0.5d
-			subtitle: "Make an Angel Ring"
-			description: ["Flight goes brrrrrr"]
+			subtitle: "制作一个天使指环"
+			description: ["起飞喽"]
 			id: "55EA528E73C2804A"
 			tasks: [{
 				id: "04B47BC0F57CDF34"
 				type: "item"
-				title: "Any #curios:angelring"
+				title: "任何 #curios:angelring"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -102,7 +102,7 @@
 		{
 			x: 5.5d
 			y: 0.0d
-			description: ["Find dem Structures "]
+			description: ["寻找维度中的结构"]
 			id: "6EF1444BC708D36D"
 			tasks: [{
 				id: "5DFFD4F06B8B8678"
@@ -113,7 +113,7 @@
 		{
 			x: 6.0d
 			y: 1.0d
-			description: ["Find dem Biomes"]
+			description: ["寻找维度中的群系"]
 			id: "16859143A5AF8277"
 			tasks: [{
 				id: "6C7DFA50C2766D12"
@@ -128,7 +128,7 @@
 		{
 			x: 2.5d
 			y: 1.5d
-			description: ["Speeds Up Plant Groth Speed"]
+			description: ["加快植物生长速度"]
 			id: "46DF9472BDDE12F8"
 			tasks: [{
 				id: "5D376838463FDD73"
@@ -143,7 +143,7 @@
 		{
 			x: 2.5d
 			y: 2.5d
-			description: ["Compact Infinite Water Source"]
+			description: ["压缩无限水源"]
 			id: "695753983315A715"
 			tasks: [{
 				id: "2C39564D39AC09E8"
@@ -154,7 +154,7 @@
 		{
 			x: 6.0d
 			y: 2.0d
-			description: ["All your tools in 1 item"]
+			description: ["所有的工具都可以收在这一个物品之中"]
 			id: "2AF7F1E4112CDC1C"
 			tasks: [{
 				id: "4CFA576C45B09DC9"
@@ -165,7 +165,7 @@
 		{
 			x: 5.5d
 			y: 3.0d
-			description: ["Where are they ?"]
+			description: ["它们在哪？"]
 			id: "124BFDF7FD768224"
 			tasks: [{
 				id: "4D379B94B4C7E110"
@@ -206,14 +206,14 @@
 		{
 			x: 2.0d
 			y: -1.5d
-			subtitle: "Mining But for cool kids B)"
+			subtitle: "挖矿，但是是给酷酷的孩子准备的 B)"
 			min_required_dependencies: 1
 			dependency_requirement: "one_started"
 			id: "64DDBD248F69C38F"
 			tasks: [{
 				id: "593E9B0E15957F9A"
 				type: "item"
-				title: "Any Mining Gadget"
+				title: "任何的挖掘小工具"
 				item: {
 					id: "itemfilters:tag"
 					Count: 1b
@@ -226,7 +226,7 @@
 		{
 			x: 3.0d
 			y: -1.5d
-			subtitle: "For all time... Always"
+			subtitle: "永远……从始至终"
 			id: "7BAAB22687A84CD1"
 			tasks: [{
 				id: "47FE6A0237A549BF"
